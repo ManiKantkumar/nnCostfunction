@@ -22,5 +22,6 @@ Implementing regularization with the cost function and gradient by computing the
 
 ## References.
 www.doc.ic.ac.uk
+
 Understanding Machine Learning.
 
