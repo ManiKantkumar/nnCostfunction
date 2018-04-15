@@ -3,7 +3,7 @@
 Using large data set, train an algorithm such that the cost of computing should be minimised and then backtest it. 
 
 ## What this code does ?
-#### This code computes the gradient and cost function of Neural Network Model and regularization.
+#### This code computes the gradient and cost function of Neural Network Model and regularize it.
 Use forward propagation and return the cost in J variable.
 Evaluate the partial derivatives of  the cost function with respect to Theta1 and Theta2.
 Now implement backpropagation algorithm to compute gradient of Theta1 and Theta2(Theta1_grad & Theta2_grad).
