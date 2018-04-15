@@ -13,10 +13,10 @@
 
 ## Some results.
 #### Neural Networks have several uses: 
-##### In identifying patterns or trends in data,
-##### well suited for prediction or forecasting needs.
-##### applicability to real world business problems(e.g- Airline Marketing).
-##### In recognising diseases using scans.
+- In identifying patterns or trends in data,
+- well suited for prediction or forecasting needs.
+- applicability to real world business problems(e.g- Airline Marketing).
+- In recognising diseases using scans.
 
 ## References.
 
